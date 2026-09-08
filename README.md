@@ -41,7 +41,6 @@ on the following sub-files:</li>
 
 Helper scripts to iterate generating reports for multiple parks, plots, etc:
 <ul>
-<li></li>
 <li><b>PrevVisit_FieldForms_XXXX_generate_all.R:</b> iterates through generating the tree and quadrat field forms 
 (actual files that compile those are in the 'PrevVisit_modules' folder), and Plot Viewers for a given year 
 by network.</li>
