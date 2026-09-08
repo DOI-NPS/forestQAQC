@@ -53,7 +53,7 @@ in a given year.</li>
 </ul>
 
 <b>Note: Because file paths are not allowed through DGEC, there are places within these reports that require paths 
-to be updated, particularly where they're referring to files on the MIDN or NETN server (e.g., photopoints). If you
+to be updated, particularly where they're referring to files on the MIDN or NETN server (e.g., photo points). If you
 try to knit a report, and you get an error about a file path not found, track down where the error occured, and 
 update the path.</b> 
 
