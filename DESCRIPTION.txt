@@ -1,6 +1,6 @@
 Package: forestQAQC
 Title: forestQAQC: A repo for automated QA/QC reporting for NETN/MIDN/NCBN forest health monitoring.
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(
     person(given="Kate", family="Miller", email="kathryn_miller@nps.gov",
            role = c("aut", "cre"))
