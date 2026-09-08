@@ -3,7 +3,7 @@
     "name": "forestQAQC",
     "organization": "NATIONAL PARK SERVICE",
     "description": "R repo for QAQC of Northeast Temperate, Mid-Atlantic, and Northeast Coastal and Barrier Network forest data"
-    "version": "1.06",
+    "version": "1.01",
     "status": "ongoing development",
     "permissions": {
       "usageType": "openSource",
